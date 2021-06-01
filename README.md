@@ -11,6 +11,6 @@ python face_mask_detector.py
 ```
 ## Sample Output
 ### With Mask
-![mask](sample_output_screenshots/output_mask.png)
+![mask](sample_output_screenshots/output_mask.PNG)
 ### No Mask
-![nomask](sample_output_screenshots/output_nomask.png)
+![nomask](sample_output_screenshots/output_nomask.PNG)
